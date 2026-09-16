@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="420mm" viewBox="0 0 842 1191" role="img" aria-labelledby="titulo-cmp-105 desc-cmp-105">
+  <title id="titulo-cmp-105">Información para ti CMP-105: Tu décimo tercero se paga hasta el 24 de diciembre</title>
+  <desc id="desc-cmp-105">Tu décimo tercero se paga hasta el 24 de diciembre 1/12 de todo lo que ganaste en el período, comisiones y horas extra incluidas. Parámetros decimo_tercero_formula y decimo_tercero_fecha_pago. Si quieres cambiar de modalidad, avisa a Nómina antes del 31 de octubre. Norma: Política de Nómina y Compensaciones, Décimos. Vigente desde el 21 de septiembre de 2026.</desc>
+  <defs>
+    <pattern id="rayas-cmp-105" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="34" height="34" fill="#ffc071"/>
+      <rect width="17" height="34" fill="#24211f"/>
+    </pattern>
+    <pattern id="puntos-cmp-105" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#24211f" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="842" height="1191" fill="#f8f7f5"/>
+  <rect x="0" y="0" width="842" height="1191" fill="url(#puntos-cmp-105)"/>
+  <text data-caja="marca" data-ancho="420" x="56" y="68" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#5f564f" letter-spacing="1.26"><tspan x="56" dy="0">VERTIENTE · RECURSOS HUMANOS</tspan></text>
+  <text data-caja="codigo" data-ancho="220" x="786" y="68" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#5f564f" letter-spacing="0.56" text-anchor="end"><tspan x="786" dy="0">CMP-105</tspan></text>
+  <line x1="56" y1="92" x2="786" y2="92" stroke="#c7c0b7" stroke-width="2" stroke-linecap="square"/>
+  <text data-caja="etiqueta" data-ancho="730" x="56" y="150" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c64908" letter-spacing="1.98"><tspan x="56" dy="0">INFORMACIÓN PARA TI</tspan></text>
+  <text data-caja="dato-cifra" data-ancho="730" x="56" y="330" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="150" font-weight="700" fill="#187767" letter-spacing="-3"><tspan x="56" dy="0">1/12</tspan></text>
+  <text data-caja="dato-etiqueta" data-ancho="730" x="56" y="392" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#504944"><tspan x="56" dy="0">de todo lo que ganaste en el período, comisiones y horas</tspan><tspan x="56" dy="32">extra incluidas. Parámetros decimo_tercero_formula y</tspan><tspan x="56" dy="32">decimo_tercero_fecha_pago.</tspan></text>
+  <line x1="56" y1="498" x2="786" y2="498" stroke="#c7c0b7" stroke-width="2" stroke-linecap="square"/>
+  <text data-caja="titular" data-ancho="730" x="56" y="600" font-family="'Helvetica Neue',Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="66" font-weight="800" fill="#24211f" letter-spacing="-0.79"><tspan x="56" dy="0">Tu décimo tercero se</tspan><tspan x="56" dy="71.28">paga hasta el 24 de</tspan><tspan x="56" dy="71.28">diciembre</tspan></text>
+  <rect x="0" y="808.56" width="842" height="382.44" fill="#144c45"/>
+  <g transform="translate(56 852.56) scale(0.84)" aria-hidden="true">
+    <path d="M14 40 H34 L70 16 V84 L34 60 H14 Z" fill="none" stroke="#ffc071" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M24 60 V80 H40 V64" fill="none" stroke="#ffc071" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M80 34 Q92 50 80 66" fill="none" stroke="#ffc071" stroke-width="6" stroke-linecap="round"/></g>
+  <text data-caja="accion-etiqueta" data-ancho="614" x="172" y="870.56" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffc071" letter-spacing="1.5"><tspan x="172" dy="0">QUÉ HACER</tspan></text>
+  <text data-caja="instruccion" data-ancho="614" x="172" y="908.56" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#ffffff"><tspan x="172" dy="0">Si quieres cambiar de modalidad, avisa a</tspan><tspan x="172" dy="32">Nómina antes del 31 de octubre. Si no avisas,</tspan><tspan x="172" dy="32">se mantiene la modalidad que ya tienes.</tspan></text>
+  <line x1="56" y1="1027" x2="786" y2="1027" stroke="#187767" stroke-width="2" stroke-linecap="square"/>
+  <text data-caja="pie-norma" data-ancho="730" x="56" y="1053" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#ffffff"><tspan x="56" dy="0">Norma: Política de Nómina y Compensaciones · Décimos</tspan></text>
+  <text data-caja="pie-vigencia" data-ancho="730" x="56" y="1077" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#a9e4d3"><tspan x="56" dy="0">Vigencia: desde el 21 de septiembre de 2026 hasta el 24 de diciembre de 2026. Campaña CMP-105 · Toda la nómina · 1.200</tspan><tspan x="56" dy="15.25">colaboradores</tspan></text>
+  <text data-caja="pie-contacto" data-ancho="730" x="56" y="1114.25" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#a9e4d3"><tspan x="56" dy="0">¿Dudas? Escribe a VERA por WhatsApp o a Jefatura de Nómina y Compensaciones: responde en 2 días hábiles.</tspan></text>
+  <text data-caja="pie-nota" data-ancho="730" x="56" y="1136.25" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="400" fill="#a9e4d3" opacity="0.85"><tspan x="56" dy="0">Corporación Vertiente S.A. · Recursos Humanos · Esta pieza informa; no sustituye la norma ni reemplaza la consulta con tu jefatura.</tspan></text>
+</svg>

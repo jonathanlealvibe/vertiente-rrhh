@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="420mm" viewBox="0 0 842 1191" role="img" aria-labelledby="titulo-cmp-102 desc-cmp-102">
+  <title id="titulo-cmp-102">Alerta de seguridad CMP-102: En la línea, el protector auditivo va puesto todo el turno</title>
+  <desc id="desc-cmp-102">En la línea, el protector auditivo va puesto todo el turno 8 horas de ruido continuo bastan para una pérdida auditiva que no se recupera. La hipoacusia no duele y por eso se detecta tarde. Retíralo solo fuera de la zona señalizada. Norma: Reglamento de Higiene y Seguridad, Equipo de protección personal. Vigente desde el 21 de septiembre de 2026.</desc>
+  <defs>
+    <pattern id="rayas-cmp-102" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="34" height="34" fill="#ffc071"/>
+      <rect width="17" height="34" fill="#24211f"/>
+    </pattern>
+    <pattern id="puntos-cmp-102" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#24211f" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="842" height="1191" fill="#f8f7f5"/>
+  <rect x="0" y="0" width="842" height="236" fill="#062522"/>
+  <rect x="0" y="236" width="842" height="24" fill="url(#rayas-cmp-102)"/>
+  <g transform="translate(56 92) scale(1.08)" aria-hidden="true">
+    <path d="M50 8 L96 90 H4 Z" fill="none" stroke="#ffc071" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="45" y="36" width="10" height="30" rx="4" fill="#ffc071"/>
+    <circle cx="50" cy="76" r="6" fill="#ffc071"/></g>
+  <text data-caja="marca" data-ancho="420" x="56" y="62" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#a9e4d3" letter-spacing="1.26"><tspan x="56" dy="0">VERTIENTE · RECURSOS HUMANOS</tspan></text>
+  <text data-caja="codigo" data-ancho="220" x="786" y="62" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#a9e4d3" text-anchor="end"><tspan x="786" dy="0">CMP-102</tspan></text>
+  <text data-caja="etiqueta" data-ancho="594" x="192" y="158" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#ffc071" letter-spacing="2.4"><tspan x="192" dy="0">ALERTA DE SEGURIDAD</tspan></text>
+  <text data-caja="bajada" data-ancho="594" x="192" y="194" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#a9e4d3"><tspan x="192" dy="0">Léela hoy en la parada de seguridad de cinco minutos.</tspan></text>
+  <text data-caja="titular" data-ancho="730" x="56" y="352" font-family="'Helvetica Neue',Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif" font-size="73" font-weight="800" fill="#24211f" letter-spacing="-0.88"><tspan x="56" dy="0">En la línea, el</tspan><tspan x="56" dy="76.65">protector auditivo va</tspan><tspan x="56" dy="76.65">puesto todo el turno</tspan></text>
+  <rect x="56" y="596" width="730" height="186" fill="#24211f"/>
+  <text data-caja="dato-cifra" data-ancho="268" x="92" y="708" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="54" font-weight="700" fill="#ffc071"><tspan x="92" dy="0">8 horas</tspan></text>
+  <text data-caja="dato-etiqueta" data-ancho="358" x="392" y="654" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#ffffff"><tspan x="392" dy="0">de ruido continuo bastan para una</tspan><tspan x="392" dy="28.6">pérdida auditiva que no se</tspan><tspan x="392" dy="28.6">recupera. La hipoacusia no duele</tspan><tspan x="392" dy="28.6">y por eso se detecta tarde.</tspan></text>
+  <text data-caja="accion-etiqueta" data-ancho="420" x="56" y="838" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#c64908" letter-spacing="1.6"><tspan x="56" dy="0">QUÉ HACER AHORA</tspan></text>
+  <line x1="56" y1="852" x2="786" y2="852" stroke="#c7c0b7" stroke-width="1.5" stroke-linecap="square"/>
+  <text data-caja="instruccion" data-ancho="730" x="56" y="888" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#24211f"><tspan x="56" dy="0">Retíralo solo fuera de la zona señalizada. Si te aprieta o</tspan><tspan x="56" dy="32">está roto, cámbialo en bodega de EPP antes de entrar: el</tspan><tspan x="56" dy="32">cambio es inmediato y no se descuenta.</tspan></text>
+  <line x1="56" y1="1027" x2="786" y2="1027" stroke="#c7c0b7" stroke-width="2" stroke-linecap="square"/>
+  <text data-caja="pie-norma" data-ancho="730" x="56" y="1053" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#504944"><tspan x="56" dy="0">Norma: Reglamento de Higiene y Seguridad · Equipo de protección personal</tspan></text>
+  <text data-caja="pie-vigencia" data-ancho="730" x="56" y="1077" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#5f564f"><tspan x="56" dy="0">Vigencia: desde el 21 de septiembre de 2026 hasta el 20 de diciembre de 2026. Campaña CMP-102 · Operarios de línea y</tspan><tspan x="56" dy="15.25">mantenimiento · Planta FRUTAL, Durán</tspan></text>
+  <text data-caja="pie-contacto" data-ancho="730" x="56" y="1114.25" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#5f564f"><tspan x="56" dy="0">¿Dudas? Escribe a VERA por WhatsApp o a Jefatura de Seguridad y Salud Ocupacional: responde en 24 horas.</tspan></text>
+  <text data-caja="pie-nota" data-ancho="730" x="56" y="1136.25" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="400" fill="#5f564f" opacity="0.85"><tspan x="56" dy="0">Corporación Vertiente S.A. · Recursos Humanos · Esta pieza informa; no sustituye la norma ni reemplaza la consulta con tu jefatura.</tspan></text>
+</svg>
