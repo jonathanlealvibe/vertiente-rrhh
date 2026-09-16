@@ -1,5 +1,3 @@
-# Cualquier ruta cae en index.html: la aplicación resuelve la navegación en el
-# navegador. Evita un 404 si alguien recarga estando dentro de una vista.
 [[redirects]]
   from = "/*"
   to = "/index.html"

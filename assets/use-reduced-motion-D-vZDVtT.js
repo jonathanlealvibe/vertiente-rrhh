@@ -1,0 +1,1 @@
+import{ct as e,ht as t,lt as n,mt as r,ut as i}from"./index-8lK96QCL.js";var a=t(r(),1);function o(){!n.current&&e();let[t]=(0,a.useState)(i.current);return t}export{o as t};
